@@ -5,7 +5,7 @@
 <p>- <i>Enrolled at Telefónica's 42 Campus in Madrid, enhancing my skills in C and problem-solving through innovative, project-based learning.</i></p>
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkMjMxZ2N0ajNxbWJtdW5rYnhzbmZjeWs2bnJnNjg5aWJvcG9laSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="45%" align="right" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXkydm1scGJnYWYweTJpajBzb2dxdDQzenRmazQ1eDd6bmMzdnllZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="45%" align="right" />
 
 </br>
 
