@@ -1,31 +1,34 @@
-# 👋 ¡Hola! Soy Guillermo 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-Soy una persona apasionada por la programación y actualmente me estoy especializando en Inteligencia Artificial y Machine Learning. Siempre estoy en búsqueda de nuevos retos y oportunidades para aplicar la tecnología a problemas reales. Mi objetivo es aportar soluciones innovadoras y crecer profesionalmente en el mundo de la IA.
+# Hello
 
-## 🛠️ Tecnologías y Herramientas Habilidades  
-- **Lenguajes:** Python
-- **Librerías y frameworks:** Numpy, Pandas, Matplotlib, Scikit-learn, Flask, (aprendiendo TensorFlow y PyTorch)
-- **Bases de datos:** SQL
-- **Visualización:** Power BI, Matplotlib
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=I'm Guillermo...;I+am+23+years+old...;"/>
 
----
+<p>- <i>Enrolled at Telefónica's 42 Campus in Madrid, enhancing my skills in C and problem-solving through innovative, project-based learning.</i></p>
 
-## 👨‍💻 Proyectos Destacados
 
-- **Análisis emocional con IA:**  
-  Aplicación web que permite a los usuarios registrar sus emociones diarias y predice, usando un modelo propio de Machine Learning, la emoción predominante. Incluye gráficas para visualizar la evolución de las emociones.
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkMjMxZ2N0ajNxbWJtdW5rYnhzbmZjeWs2bnJnNjg5aWJvcG9laSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="45%" align="right" />
 
-- **Agencia de Inteligencia Artificial (en desarrollo):**  
-  Plataforma web que ofrece servicios de IA: análisis de sentimientos en reseñas, detección de anomalías en datos y predicción de eventos futuros. Backend desarrollado en Flask e integración de modelos propios de ML.
+</br>
 
-- **Otros proyectos:**  
-  - Desarrollo de página web y aplicación de escritorio.
+</div>
 
----
+🚀 My Programming Stack ⚡
 
-- 📧 md.guillermo1@gmail.com
-- ¡Contacta conmigo en [LinkedIn](https://www.linkedin.com/in/guillermo-mu%C3%B1oz-diaz/)!
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+</div>
 
----
+<div align="left">  
+  🚀 Contact 
+</div>
 
-¡Gracias por visitar mi perfil! 🚀
+</br>
+<div align="left"> 
+<a href = "mailto:md.guillermo1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guillermo-munoz-diaz/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"">
+</a>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
