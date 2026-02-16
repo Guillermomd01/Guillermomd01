@@ -18,7 +18,7 @@
 </div>
 
 <div align="left">  
-  🚀 Contact 
+  📥 Contact 
 </div>
 
 </br>
